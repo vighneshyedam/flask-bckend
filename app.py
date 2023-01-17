@@ -1,6 +1,5 @@
 # Store this code in 'app.py' file
 from flask import Flask, render_template, request, redirect, url_for, session#jsonify
-import MySQLdb.cursors
 import re
 import sqlite3
 
